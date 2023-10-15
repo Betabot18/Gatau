@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tombol Love Kejutan</title>
+</head>
+<body>
+
+<button onclick="loveKejutan()">Love Kejutan</button>
+
+<script>
+function loveKejutan() {
+    alert("Sahabat, aku mencintaimu! 🥰");
+}
+</script>
+
+</body>
+</html>
